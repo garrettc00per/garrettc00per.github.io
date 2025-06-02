@@ -40,7 +40,7 @@ ___
 
 ## 2022
 
-### ![Alt text](/assets/images/smarcb1_review.jpg){: width="400px" style="float: left; margin-right: 30px;" }
+### ![Alt text](/assets/images/SMARCB1_review.jpg){: width="400px" style="float: left; margin-right: 30px;" }
 **SMARCB1-Deficient Cancers: Novel Molecular Insights and Therapeutic Vulnerabilities**
 
 Authors: **Cooper G.W.**, Hong H.L.
