@@ -4,7 +4,8 @@ layout: single
 permalink: /tutorials/
 ---
 
-### ![Alt text](/assets/images/genomify.jpg){: width="600px" style="display: block; margin: 0 auto;" }
+![Alt text]({{ site.baseurl }}/assets/images/genomify.jpg){: width="600px" style="display: block; margin: 0 auto;" }
+
 
 Genomify is my YouTube channel where I simplify complex genomic techniques with clear, practical tutorials to help you master bioinformatics and data analysis. I have them grouped by analysis 
 technique below!

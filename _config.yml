@@ -116,3 +116,7 @@ tag_archive:
 
 sass:
   sass_dir: _sass
+
+
+baseurl: "/garrettc00per.github.io"  
+
