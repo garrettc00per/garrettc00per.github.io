@@ -7,6 +7,7 @@
 $right-sidebar-width-narrow: 300px;
 $right-sidebar-width: 380px;
 $right-sidebar-width-wide: 450px;
+$max-width: 1650px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
