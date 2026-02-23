@@ -1,35 +1,12 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
-search: false
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
 
-// your custom avatar size changes here:
-.author__avatar img {
-  max-width: 250px;
-  width: 250px;
-  height: 250px;
-  border-radius: 50%;
-  padding: 5px;
-  border: 1px solid #f2f3f3;
-}
-
-.page__content {
-  max-width: 100% !important;
-  width: 100% !important;
-  flex: 1 1 100% !important;
-}
-
-.page {
-  max-width: 100% !important;
-  padding: 0 2rem;
-}
-
-.page__inner-wrap {
-  max-width: 100% !important;
-  width: 100% !important;
+html {
+  font-size: 14px;
 }
