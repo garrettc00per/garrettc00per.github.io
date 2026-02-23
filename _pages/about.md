@@ -1,9 +1,16 @@
 ---
 permalink: /
-title: "Hi, I'm Garrett Cooper"
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-I am a data-driven computational biologist specializing in functional genomics and translational cancer research. I recently earned my PhD in Genetics and Molecular Biology from Emory University, where my research focused on interpreting the functional impact of genetic variants to advance pediatric cancer diagnosis and treatment. I enjoy managing complex, multi-omic projects from start to finish and have a proven track record of delivering novel insights for variant interpretation, therapeutic target identification, and disease characterization.
+----------------
+
+I am a data-driven computational biologist specializing in multi-omics integration and translational cancer research. I recently earned my PhD in Genetics and Molecular Biology from Emory University, where my research focused on interpreting the functional impact of genetic variants to advance pediatric cancer diagnosis and treatment. I enjoy managing complex, multi-omic projects from start to finish and have a proven track record of delivering novel insights for variant interpretation, therapeutic target identification, and disease characterization.
 
 As a doctoral researcher in the Hong Lab (2021–2025), I led and contributed to several high-impact projects.
 
@@ -14,6 +21,6 @@ As a doctoral researcher in the Hong Lab (2021–2025), I led and contributed to
 
 I am passionate about applying computational and experimental skills to solve complex problems at the intersection of genomics and medicine. As a recent graduate, I am actively seeking new opportunities to advance precision medicine and translational research in industry.
 
-## Education
+### Education
 
-I graduated from the University of Georgia with a BSc in Genetics in May 2020. I then began my PhD in Genetics and Molecular Biology at Emory University, supported by an NCI F31 fellowship, and defended my dissertation in November 2025.
+I graduated from the University of Georgia with a **BSc in Genetics** in May 2020. I then began my **PhD in Genetics and Molecular Biology** at Emory University, supported by an NCI F31 fellowship, and defended my dissertation in November 2025.
