@@ -21,4 +21,7 @@ $right-sidebar-width-wide: 450px;
 
 .author__avatar img {
   max-width: 250px !important;
+  opacity: 1 !important;
+  -webkit-transition: none !important;
+  transition: none !important;
 }
