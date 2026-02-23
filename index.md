@@ -9,7 +9,7 @@ I'm a geneticist and computational biologist who works both sides of the lab. I 
 
 As a doctoral researcher in the Hong Lab (2021–2025), I led and contributed to several high-impact projects.
 
-* Integrated deep mutational scanning with multi-omics technologies and experimental validation to reveal that missense mutations can disrupt SMARCB1 function as severely as protein-null mutations, with direct implications for pediatric cancer diagnostics.
+* I combined deep mutational scanning, multi-omics profiling, and experimental validation to show that certain SMARCB1 missense mutations are just as functionally devastating as losing the protein entirely. This finding has direct implications for improving pediatric cancer diagnostics.
 * Co-led a study identifying XPO1 as a therapeutic vulnerability in Wilms tumor through experimental follow-up and NGS data integration, contributing to the initiation of a Phase II clinical trial.
 * Developed and validated bioinformatics pipelines using Nextflow for NGS data processing and variant functional scoring using Python, R, and AWS to manage and analyze large-scale genomic datasets.
 * Completed an industry internship at GRAIL on the Assay Research team, where I spent the summer optimizing the whole-genome bisulfite sequencing platform for liquid biopsy applications.
