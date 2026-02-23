@@ -11,8 +11,8 @@ $right-sidebar-width-wide: 450px;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-html {
-  font-size: 14px;
+.page__content {
+  font-size: 15px;
 }
 
 .sidebar {
