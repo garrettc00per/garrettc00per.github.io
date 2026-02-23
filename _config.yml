@@ -61,19 +61,17 @@ author:
   name   : "Garrett Cooper"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Decoding pediatric cancer through omics and functional genomics to drive better diagnostics and therapies."
+  location: "Atlanta, GA"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:gcooper1245@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/garrettc00per"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com.hk/citations?user=voE5H4YAAAAJ"
 
 footer:
   links:
