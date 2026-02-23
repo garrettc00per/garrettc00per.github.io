@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "About"
+title: "About me - Garrett Cooper"
 permalink: /
 author_profile: true
 ---
 
-I'm a geneticist and computational biologist who works both sides of the lab, **generating multi-omic sequencing data** and **building the pipelines** to analyze it. I recently completed my **PhD in Genetics and Molecular Biology** at Emory University studying pediatric cancer genomics, where I spent years trying to understand how genetic variants drive cancer and what we can do about it. 
+I'm a geneticist and computational biologist who works both sides of the lab. I specialize in generating **multi-omic sequencing data** and **building pipelines** to analyze it. I recently completed my **PhD in Genetics and Molecular Biology** at Emory University studying pediatric cancer genomics, where I spent years trying to understand how genetic variants drive cancer and what we can do about it. 
 
 As a doctoral researcher in the Hong Lab (2021–2025), I led and contributed to several high-impact projects.
 
