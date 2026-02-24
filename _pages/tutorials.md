@@ -8,13 +8,15 @@ permalink: /tutorials/
 
 Genomify is my YouTube channel where I simplify complex genomic techniques with clear, practical tutorials to help you master bioinformatics and data analysis. I have them grouped by analysis technique below!
 
+[Visit my YouTube channel](https://www.youtube.com/@GenomifywithGarrett){: .btn .btn--danger target="_blank"}
+
 ---
 
 ## RNA-seq for Beginners
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
-  <div style="flex: 1 1 30%; max-width: 500px;">
+  <div>
     <h4>RNAseq Quantification</h4>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe src="https://www.youtube.com/embed/uc1fHKZNikE?start=535"
@@ -23,7 +25,7 @@ Genomify is my YouTube channel where I simplify complex genomic techniques with 
     </div>
   </div>
 
-  <div style="flex: 1 1 30%; max-width: 500px;">
+  <div>
     <h4>Gene Set Enrichment</h4>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe src="https://www.youtube.com/embed/WQTzsmLy0D8?start=367"
@@ -32,7 +34,7 @@ Genomify is my YouTube channel where I simplify complex genomic techniques with 
     </div>
   </div>
 
-  <div style="flex: 1 1 30%; max-width: 500px;">
+  <div>
     <h4>DESeq2 for Beginners</h4>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe src="https://www.youtube.com/embed/0uZurcgyCZM?start=1094"
@@ -47,9 +49,9 @@ Genomify is my YouTube channel where I simplify complex genomic techniques with 
 
 ## CUT&RUN
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
-  <div style="flex: 1 1 30%; max-width: 500px;">
+  <div>
     <h4>Peak Calling with SEACR</h4>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe src="https://www.youtube.com/embed/WlDkVndEtCs?start=1975"
@@ -58,7 +60,7 @@ Genomify is my YouTube channel where I simplify complex genomic techniques with 
     </div>
   </div>
 
-  <div style="flex: 1 1 30%; max-width: 500px;">
+  <div>
     <h4>From Alignment to Signal</h4>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe src="https://www.youtube.com/embed/-zN4SrGQSBk?start=1062"
@@ -67,7 +69,7 @@ Genomify is my YouTube channel where I simplify complex genomic techniques with 
     </div>
   </div>
 
-  <div style="flex: 1 1 30%; max-width: 500px;">
+  <div>
     <h4>FASTQ to BAM with DRAGEN</h4>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe src="https://www.youtube.com/embed/pxAHVspWY_k?start=1275"
@@ -82,9 +84,9 @@ Genomify is my YouTube channel where I simplify complex genomic techniques with 
 
 ## SV Calling
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
-  <div style="flex: 1 1 30%; max-width: 500px;">
+  <div>
     <h4>SV Calling with SvABA</h4>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe src="https://www.youtube.com/embed/KzU6jAQyyGI"
@@ -99,9 +101,9 @@ Genomify is my YouTube channel where I simplify complex genomic techniques with 
 
 ## PhD Defense
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
-  <div style="flex: 1 1 30%; max-width: 500px;">
+  <div>
     <h4>My PhD Defense</h4>
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe src="https://www.youtube.com/embed/59aKQjWxmS8?start=586"
