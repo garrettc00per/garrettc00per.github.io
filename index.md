@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About me - Garrett Cooper"
+title: "About me"
 permalink: /
 author_profile: true
 ---
