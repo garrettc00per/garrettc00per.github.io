@@ -4,14 +4,16 @@ permalink: /cv/
 layout: single
 ---
 
-**EDUCATION**
+<div class="cv-content" markdown="1">
+
+## EDUCATION
 
 - PhD Genetics and Molecular Biology, Emory University – Nov 2025
 - BSc Genetics, University of Georgia – May 2020
 
 ---
 
-**RESEARCH**
+## RESEARCH
 
 **Doctoral Researcher, Hong Lab** – Emory University (2021-2025), Atlanta, GA
 
@@ -36,7 +38,7 @@ layout: single
 
 ---
 
-**PUBLICATIONS**
+## PUBLICATIONS
 
 **Cooper GW**, et al. SMARCB1 missense mutants disrupt SWI/SNF complex stability and remodeling activity. ***Research Square*** (2025). <https://doi.org/10.21203/rs.3.rs-6018128/v1>
 
@@ -52,7 +54,7 @@ Baptista RP, **Cooper GW**, et al. Challenges for Cryptosporidium Population Stu
 
 ---
 
-**PRESENTATIONS**
+## PRESENTATIONS
 
 - Poster Presentation, American Association for Cancer Research Annual Meeting, April 2025. "SMARCB1 missense mutants destabilize SWI/SNF complex stability and remodeling activity", doi: <https://doi.org/10.1158/1538-7445.AM2025-986>
 - Poster Presentation, Advances in Pediatric Cancer Research AACR Special Conference, September 2024. "Deep mutational scanning of SMARCB1 identifies missense mutants that destabilize SWI/SNF complex stability and diminish remodeling activity", doi: <https://doi.org/10.1158/1538-7445.PEDIATRIC24-B028>
@@ -64,7 +66,7 @@ Baptista RP, **Cooper GW**, et al. Challenges for Cryptosporidium Population Stu
 
 ---
 
-**TEACHING AND ACTIVITIES**
+## TEACHING AND ACTIVITIES
 
 - Emory BIOL 250 – Cell Biology, Graduate TA (Fall 2021)
 - President – Graduate Student in Genetics (Sep 2020–Aug 2023)
@@ -73,7 +75,7 @@ Baptista RP, **Cooper GW**, et al. Challenges for Cryptosporidium Population Stu
 
 ---
 
-**AWARDS**
+## AWARDS
 
 - NCI F31 Ruth L. Kirschtein NRSA for Individual Predoctoral Fellowship (2023-2026)
 - NRSA T32 Institutional Training Grant (2021-2022)
@@ -82,7 +84,7 @@ Baptista RP, **Cooper GW**, et al. Challenges for Cryptosporidium Population Stu
 
 ---
 
-**SKILLS**
+## SKILLS
 
 **Computational biology & bioinformatics**:
 
@@ -103,3 +105,5 @@ Baptista RP, **Cooper GW**, et al. Challenges for Cryptosporidium Population Stu
 **Molecular Biology**:
 
 - Immunoblotting; immunoprecipitation; proteomics; qRT-PCR; molecular cloning (restriction enzyme and Gateway); knockout/knockdown cell line generation
+
+</div>
