@@ -4,61 +4,102 @@ permalink: /cv/
 layout: single
 ---
 
-Research Experience
+**EDUCATION**
 
-**Hong Laboratory at Emory University**
+- PhD Genetics and Molecular Biology, Emory University – Nov 2025
+- BSc Genetics, University of Georgia – May 2020
 
-Atlanta, GA
+---
 
-PhD Candidate
+**RESEARCH**
 
-June 2021 - August 2025 (anticipated)
+**Doctoral Researcher, Hong Lab** – Emory University (2021-2025), Atlanta, GA
 
-• Cultured patient-derived tumors to characterize loss and gain-of-function missense mutations in the tumor suppressor SMARCB1.
+- Characterized SMARCB1 missense variants that mimic complete protein loss maintain detectable protein, using integrated multi-omics and NGS methods.
+- Built scalable bioinformatics pipelines (R, Python, AWS) integrating multi-omic NGS data and applying statistical methods (R/Bioconductor) to reveal that pathogenic missense mutations destabilize the SWI/SNF chromatin remodeling complex.
+- Designed and executed end-to-end functional genomics workflows including plasmid design, lentiviral transduction, assay optimization, NGS library prep, and QC to generate sequencing data for chromatin remodeling studies.
+- Benchmarked machine learning variant prediction models against proliferation-based deep mutational scanning data, revealing functional-readout dependent limitations in variant predictions.
+- Co-led a study identifying XPO1 as a targetable vulnerability in Wilms tumor by analyzing CRISPR-Cas9/RNAi screening data and performing validation studies including knockout/knockdown cell lines, transcriptomic analysis, and drug synergy assays, contributing to the advancement of a Phase II clinical trial (NCT05985161).
 
-• Integrated diverse research methods including RNA-sequencing, ATAC-sequencing, CUT&RUN, viral vectors, mass spectrometry, and molecular dynamic simulations to characterize mutational phenotypes.
+**Laboratory Research Intern, Assay Research** – GRAIL, Inc. (2024), Menlo Park, CA
 
-• Experienced in sample and library preparation for both next generation sequencing and Oxford Nanopore Technologies.
+- Conducted a platform transition study comparing WGBS sequencing performance between NovaSeq 6000 and NovaSeq X+, benchmarking key metrics including mapping efficiency, insert sizes, mapping CpG detection rates to validate the new platform for clinical-grade epigenomic assays.
+- Evaluated an updated conversion reagent in the WGBS sample preparation pipeline, performing end-to-end sample prep, sequencing, and characterization, to assess impact on sample quality.
 
-• Utilized Amazon Web Services, R, and Python to optimize and automate transcriptomic and epigenetic data analysis, ensuring reproducibility in data processing and interpretation.
+**Undergraduate Research Assistant, Kissinger Lab** – University of Georgia (2018-2020), Athens, GA
 
-**Assay Research Team at GRAIL**
+- Performed genome-wide SNV analysis of ~250 parasite genomes using BWA/GATK on HPC clusters, revealing population-level genetic diversity that challenged standard subtyping approaches.
 
-Menlo Park, CA
+**GGBC Intern** – Georgia Genomics and Bioinformatics Core (2018-2019), Athens, GA
 
-Laboratory Research Intern
+- Developed an automated rRNA library preparation workflow for microbial-based projects.
 
-Jun – Aug 2024
+---
 
- • Conducted a bridging study to transition the whole-genome bisulfite sequencing (WGBS) assay to a new platform, ensuring compatibility with commercial products while lowering cost.
+**PUBLICATIONS**
 
- • Evaluated performance metrics of a novel WGBS internal assay chemistry compared to a previous kit-based method, identifying potential biases and confirming sequencing data integrity.
+**Cooper GW**, et al. SMARCB1 missense mutants disrupt SWI/SNF complex stability and remodeling activity. ***Research Square*** (2025). <https://doi.org/10.21203/rs.3.rs-6018128/v1>
 
- • Delivered a formal presentation of findings to the entire research team, highlighting key insights and recommendations for assay optimization.
+Mitall KM\*, **Cooper GW**\*, Lee BP\*, Targeting TRIP13 in favorable histology Wilms tumor with nuclear export inhibitors synergizes with doxorubicin. ***Communications Biology*** 7, 426 (2024). <https://doi.org/10.1038/s42003-024-06140-6>
 
-**Kissinger Laboratory at University of Georgia**
+**Cooper GW**, Hong AL. SMARCB1-deficient cancers: novel molecular insights and therapeutic vulnerabilities. ***Cancers*** 14, 3645 (2022). <https://doi.org/10.3390/cancers14153645>
 
-Athens, GA
+Baptista RP, Li Y, Sateriale A, Sanders MJ, Brooks KL, Tracey A, Ansell BR, Jex AR, **Cooper GW**, et al. Long-read assembly and comparative evidence-based reanalysis of Cryptosporidium genome sequences reveal expanded transporter repertoire and duplication of entire chromosome ends including subtelomeric regions. ***Genome Research*** 32: 203-213 (2022). <https://doi.org/10.1101/gr.275325.121>
 
-Undergraduate Research Assistant
+Jones RB, Farhi J, Adams M, Parwani KK, **Cooper GW** et al. Targeting MLL methyltransferases enhances the antitumor effects of PI3K inhibition in hormone receptor–positive breast cancer. ***Cancer Research Communications*** 2, 1569–1578 (2022). <https://doi.org/10.1158/2767-9764.CRC-22-0158>
 
-January 2018-May 2020
+Baptista RP, **Cooper GW**, et al. Challenges for Cryptosporidium Population Studies. ***Genes*** 12, 894 (2021). <https://doi.org/10.3390/genes12060894>
 
-• Conducted variant analysis of ~250 genomes of the parasite Cryptosporidium to identify highly variable regions which we hypothesized may be driving host immune evasion.
+---
 
-• Leveraged publicly available genomic data and high-performance computing clusters to generate a scientific hypothesis through genome alignment and variant calling.
+**PRESENTATIONS**
 
-**Georgia Genomics and Bioinformatics Core**
+- Poster Presentation, American Association for Cancer Research Annual Meeting, April 2025. "SMARCB1 missense mutants destabilize SWI/SNF complex stability and remodeling activity", doi: <https://doi.org/10.1158/1538-7445.AM2025-986>
+- Poster Presentation, Advances in Pediatric Cancer Research AACR Special Conference, September 2024. "Deep mutational scanning of SMARCB1 identifies missense mutants that destabilize SWI/SNF complex stability and diminish remodeling activity", doi: <https://doi.org/10.1158/1538-7445.PEDIATRIC24-B028>
+- Poster Presentation, Gordon Research Conference Human Genetics and Genomics, July 2023. "Elucidating loss-of-function mutations in the RPT2 domain of SMARCB1"
+- Poster Presentation, Southeastern Annual Pediatric Research Conference, June 2023. "Elucidating loss-of-function mutations in the RPT2 domain of SMARCB1"
+- **Oral Presentation**, DSAC Student Research Symposium, March 2023. "Deep Mutational Scanning Reveals a Role of DPF2 in SMARCB1-deficient Cancers"
+- **Oral Presentation**, Aflac Cancer and Blood Disorders Center Advances in Research, Nov 2022. "The Role of DPF2 Stability in SMARCB1-Deficient Cancer"
+- Poster Presentation, 29th Annual Molecular Parasitology Conference, May 2019. "Catch Me If You Can: Identifying Fast-evolving Genes in the Genus Cryptosporidium"
 
-Athens, GA
+---
 
-GGBC Intern
+**TEACHING AND ACTIVITIES**
 
-June 2018-August 2020
+- Emory BIOL 250 – Cell Biology, Graduate TA (Fall 2021)
+- President – Graduate Student in Genetics (Sep 2020–Aug 2023)
+- Polygence Student Mentor (Oct 2022–May 2025)
+- Office of Postdoctoral Education Mentoring Certificate (Fall 2023)
 
-• Automated library preparation for 16s rRNA genotyping to accurately characterize diverse microbial populations using next-generation-sequencing.
+---
 
-• Optimized RNA purification and library preparation for Oxford Nanopore Direct RNA sequencing of the Dionaea muscipula (also known as the Venus fly trap) to detect isoform expression difference 
-across various geographic regions.
+**AWARDS**
 
-• Handled sample submission and organization of long-term sample storage.
+- NCI F31 Ruth L. Kirschtein NRSA for Individual Predoctoral Fellowship (2023-2026)
+- NRSA T32 Institutional Training Grant (2021-2022)
+- Phi Beta Kappa Honor Society (2020)
+- CURO Research Assistantship (2018-2019)
+
+---
+
+**SKILLS**
+
+**Computational biology & bioinformatics**:
+
+- NGS pipeline development (AWS, R, Python, Bash, git/GitHub)
+- Multi-omics data integration (ATAC-seq, CUT&RUN, RNA-seq, WGBS, WES, and proteomics)
+- Variant interpretation and classification using deep mutational scanning
+- Machine learning model evaluation (REVEL, CADD, AlphaMissense)
+- Statistical analysis and data visualization
+- Molecular dynamic simulation to interpret biophysical variant effects
+
+**Functional genomics & Assay Development**:
+
+- Lentiviral production and transduction (CRISPR-Cas9, shRNA, overexpression)
+- Cell-based functional assay development (proliferation, viability, drug response)
+- NGS library preparation and QC (Qubit, Bioanalyzer, qPCR)
+- Experimental design for NGS assay validation, including controls, replicates, and statistical analysis
+
+**Molecular Biology**:
+
+- Immunoblotting; immunoprecipitation; proteomics; qRT-PCR; molecular cloning (restriction enzyme and Gateway); knockout/knockdown cell line generation
