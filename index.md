@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I am a **hybrid computational and experimental biologist** specializing in functional genomics and translational cancer research. I recently earned my **PhD in Genetics and Molecular Biology** from Emory University, where my research focused on interpreting how genetic variants drive pediatric cancer and leveraging multi-omic approaches to turn those findings into clinically actionable insights. I enjoy working across the full research stack, from **generating sequencing data at the bench to building the pipelines that analyze it**, and have a track record of delivering findings with direct translational impact.
+I am a **hybrid computational and experimental biologist** specializing in functional genomics and translational cancer research. I recently earned my **PhD in Genetics and Molecular Biology** from Emory University. My research focused on transforming large, complex multi-omic datasets into clinically actionable insights, specifically understanding how genetic variants drive pediatric cancer. I enjoy working across the full research stack, from **generating sequencing data at the bench to building the pipelines that analyze it**, and have a track record of delivering findings with direct translational impact.
 
 As a doctoral researcher in the Hong Lab (2021–2025), I led and contributed to several high-impact projects.
 
