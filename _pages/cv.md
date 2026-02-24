@@ -17,7 +17,7 @@ layout: single
 
 **Doctoral Researcher, Hong Lab** – Emory University (2021-2025), Atlanta, GA
 
-- Characterized SMARCB1 missense variants that mimic complete protein loss maintain detectable protein, using integrated multi-omics and NGS methods.
+- Characterized SMARCB1 missense variants that mimic complete protein loss yet maintain detectable protein, using integrated multi-omics and NGS methods.
 - Built scalable bioinformatics pipelines (R, Python, AWS) integrating multi-omic NGS data and applying statistical methods (R/Bioconductor) to reveal that pathogenic missense mutations destabilize the SWI/SNF chromatin remodeling complex.
 - Designed and executed end-to-end functional genomics workflows including plasmid design, lentiviral transduction, assay optimization, NGS library prep, and QC to generate sequencing data for chromatin remodeling studies.
 - Benchmarked machine learning variant prediction models against proliferation-based deep mutational scanning data, revealing functional-readout dependent limitations in variant predictions.
