@@ -5,17 +5,17 @@ permalink: /
 author_profile: true
 ---
 
-I'm a geneticist and computational biologist who works both sides of the lab. I specialize in generating **multi-omic sequencing data** and **building pipelines** to analyze it. I recently completed my **PhD in Genetics and Molecular Biology** at Emory University studying pediatric cancer genomics, where I spent years trying to understand how genetic variants drive cancer and what we can do about it. 
+I am a **hybrid computational and experimental biologist** specializing in functional genomics and translational cancer research. I recently earned my **PhD in Genetics and Molecular Biology** from Emory University, where my research focused on interpreting how genetic variants drive pediatric cancer and leveraging multi-omic approaches to turn those findings into clinically actionable insights. I enjoy working across the full research stack, from **generating sequencing data at the bench to building the pipelines that analyze it**, and have a track record of delivering findings with direct translational impact.
 
 As a doctoral researcher in the Hong Lab (2021–2025), I led and contributed to several high-impact projects.
 
-* I combined deep mutational scanning, multi-omics profiling, and experimental validation to show that certain SMARCB1 missense mutations are just as functionally devastating as losing the protein entirely. This finding has direct implications for improving pediatric cancer diagnostics.
-* Co-led a study identifying XPO1 as a therapeutic vulnerability in Wilms tumor through experimental follow-up and NGS data integration, contributing to the initiation of a Phase II clinical trial.
-* Developed and validated bioinformatics pipelines using Nextflow for NGS data processing and variant functional scoring using Python, R, and AWS to manage and analyze large-scale genomic datasets.
-* Completed an industry internship at GRAIL on the Assay Research team, where I spent the summer optimizing the whole-genome bisulfite sequencing platform for liquid biopsy applications.
+* I integrated deep mutational scanning data from over 8,400 SMARCB1 variants with multi-omics profiling (CUT&RUN, ATAC-seq, RNA-seq, and proteomics) to demonstrate that certain missense mutations are functionally equivalent to complete protein loss — challenging diagnostic reliance on immunohistochemistry.
+* I co-led a study integrating experimental validation and NGS data analysis to identify XPO1 as a therapeutic vulnerability in Wilms tumor, contributing to the initiation of a Phase II clinical trial.
+* I developed and maintained bioinformatics pipelines using Nextflow, Python, R, and AWS for large-scale NGS data processing, variant functional scoring, and multi-omics integration.
+* I completed an industry internship at GRAIL on the Assay Research team, optimizing the whole-genome bisulfite sequencing platform for liquid biopsy applications.
 
-I am passionate about applying computational and experimental skills to solve complex problems at the intersection of genomics and medicine. As a recent graduate, I am actively seeking new opportunities to advance precision medicine and translational research in industry.
+I am passionate about applying my hybrid computational and experimental skillset to solve complex problems at the intersection of genomics and precision medicine. As a recent graduate, I am actively seeking opportunities to advance translational research and diagnostic development in industry.
 
 ### Education
 
-I graduated from the University of Georgia with a **BSc in Genetics** in May 2020. I then began my **PhD in Genetics and Molecular Biology** at Emory University, supported by an NCI F31 fellowship, and defended my dissertation in November 2025.
+I graduated from the University of Georgia with a **BSc in Genetics** in May 2020. I then began my **PhD in Genetics and Molecular Biology** at Emory University in 2021, supported by an NCI F31 fellowship, and defended my dissertation in November 2025.
