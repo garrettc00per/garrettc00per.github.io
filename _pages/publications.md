@@ -6,7 +6,7 @@ layout: single
 
 **2025**
 
-Cooper GW, et al. SMARCB1 missense mutants disrupt SWI/SNF complex stability and remodeling activity. ***Research Square*** (2025). [https://doi.org/10.21203/rs.3.rs-6018128/v1](https://doi.org/10.21203/rs.3.rs-6018128/v1)
+**Cooper GW**, et al. SMARCB1 missense mutants disrupt SWI/SNF complex stability and remodeling activity. ***Research Square*** (2025). [https://doi.org/10.21203/rs.3.rs-6018128/v1](https://doi.org/10.21203/rs.3.rs-6018128/v1)
 
 ---
 
