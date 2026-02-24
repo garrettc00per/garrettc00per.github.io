@@ -8,8 +8,8 @@ layout: single
 
 ## EDUCATION
 
-- PhD Genetics and Molecular Biology, Emory University – Nov 2025
-- BSc Genetics, University of Georgia – May 2020
+- **PhD** Genetics and Molecular Biology, Emory University – Nov 2025
+- **BSc** Genetics, University of Georgia – May 2020
 
 ---
 
