@@ -2,6 +2,8 @@
 title: "I Defended My PhD!"
 date: 2025-11-03
 categories:
+  - blog
+tags:
   - PhD
   - Defense
 ---
