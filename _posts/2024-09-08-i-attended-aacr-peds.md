@@ -8,6 +8,7 @@ tags:
   - Conference
   - Pediatrics
   - Cancer
+excerpt: "I traveled to Toronto to attend the Advances in Pediatric Cancer AACR Meeting. Smaller and more focused than a large meeting like AACR Annual, it was a great reminder of why we do this work."
 ---
 
 ![Conference photo](/assets/images/AACR_peds_2024.jpg)
@@ -18,4 +19,6 @@ The difference in atmosphere compared to a large meeting like AACR annual was im
 
 I presented our poster 'Deep mutational scanning of SMARCB1 identifies missense mutants that destabilize SWI/SNF complex stability and diminish remodeling activity,' available here: https://doi.org/10.1158/1538-7445.PEDIATRIC24-B028. It was a great opportunity to share our findings with an audience that understands exactly why variant interpretation in pediatric tumors matters clinically.
 
-I left Toronto reminded of why work is important and to keep pushing the work forward.
+I left Toronto reminded of why work is important and to keep pushing the work forward. Also was fun to stumble across the Toronto International Film Festival (TIFF) while we were there!
+
+![TIFF_photo](/assets/images/toronto_tiff_photo.jpg)

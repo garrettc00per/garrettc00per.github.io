@@ -6,6 +6,7 @@ categories:
 tags:
   - PhD
   - Defense
+excerpt: "I'm excited to announce that I defended my PhD dissertation in Genetics and Molecular Biology at Emory University."
 ---
 
 ![Lab Photo Post PhD Defense](/assets/images/defense_photo.jpg)
