@@ -7,3 +7,5 @@ main:
     url: /tutorials/
   - title: "CV"
     url: /cv/
+  - title: "Posts"
+    url: /posts/
