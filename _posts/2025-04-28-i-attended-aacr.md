@@ -6,7 +6,7 @@ categories:
 tags:
   - Cancer
   - Conference
-excerpt: "I traveled to Chicago to attend AACR 2025, the annual meeting of the American Association for Cancer Research. It was a whirlwind of incredible science, good food, and even better conversations."
+excerpt: "I traveled to Chicago to attend AACR 2025, the annual meeting of the American Association for Cancer Research."
 ---
 
 ![Conference photo](/assets/images/AACR_photo.jpg)

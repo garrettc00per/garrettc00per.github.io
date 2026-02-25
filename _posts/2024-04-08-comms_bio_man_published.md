@@ -8,7 +8,8 @@ tags:
   - Manuscript
   - Pediatrics
   - Cancer
-excerpt: "Our study, Targeting TRIP13 in favorable histology Wilms tumor with nuclear export inhibitors synergizes with doxorubicin, is published in Comunications Biology. This study demonstrates that nuclear export inhibition, when paired with doxorubicin, is a promising therapeutic strategy for Wilms tumor. This effect is due in part to TRIP13 suppression. Supported initiation of clinical trial: [NCT05985161](https://clinicaltrials.gov/study/NCT05985161?term=AREA%5BConditionSearch%5D(%22Neurofibrosarcoma%22)%20AND%20AREA%5BBasicSearch%5D(gene%20therapy)&rank=8)"
+excerpt: "Our study, Targeting TRIP13 in favorable histology Wilms tumor with nuclear export inhibitors synergizes with doxorubicin, is published in Comunications Biology.
+---
 
 Our study, Targeting TRIP13 in favorable histology Wilms tumor with nuclear export inhibitors synergizes with doxorubicin, is published in Communications Biology.
 

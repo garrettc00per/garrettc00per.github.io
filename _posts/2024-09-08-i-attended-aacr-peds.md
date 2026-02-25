@@ -8,7 +8,7 @@ tags:
   - Conference
   - Pediatrics
   - Cancer
-excerpt: "I traveled to Toronto to attend the Advances in Pediatric Cancer AACR Meeting. Smaller and more focused than a large meeting like AACR Annual, it was a great reminder of why we do this work."
+excerpt: "I traveled to Toronto to attend the Advances in Pediatric Cancer AACR Meeting. Smaller and more focused than a large meeting like AACR Annual."
 ---
 
 ![Conference photo](/assets/images/AACR_peds_2024.jpg)
