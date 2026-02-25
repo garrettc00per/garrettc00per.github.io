@@ -1,12 +1,13 @@
 ---
-title: "Post: Link"
+layout: single
+title: "I attended Advances in Pediatric Cancer - AACR 2024 in Toronto"
 date: 2024-09-08
 categories:
-  - Blog
+  - blog
 tags:
   - Conference
   - Pediatrics
-  -Cancer
+  - Cancer
 ---
 
 ![Conference photo](/assets/images/AACR_peds_2024.jpg)
