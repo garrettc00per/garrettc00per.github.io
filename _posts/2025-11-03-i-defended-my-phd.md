@@ -1,12 +1,8 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2025-11-03
+title: "I Defended My PhD!"
+date: 2025-11-03
 categories:
   - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
 ![Lab Photo Post PhD Defense](/assets/images/defense_photo.jpg)
