@@ -2,7 +2,8 @@
 title: "I Defended My PhD!"
 date: 2025-11-03
 categories:
-  - Blog
+  - PhD
+  - Defense
 ---
 
 ![Lab Photo Post PhD Defense](/assets/images/defense_photo.jpg)
@@ -11,8 +12,8 @@ After over five years of research, I'm excited to announce that I defended my Ph
 
 My work focused on understanding how mutations in a gene called SMARCB1 can drive pediatric cancer. Specifically, I was focused on how single amino acid changes can disrupt the SWI/SNF chromatin remodeling complex and alter gene expression in ways that promote tumor development.
 
-Integrating deep mutational scanning with multi-omics profiling, I found that certain missense mutations can be just as disruptive to SMARCB1 function as complete protein loss, which has important implications for how we diagnose and treat these cancers. Alongside that work, I contributed to a study identifying XPO1 as a therapeutic target in Wilms tumor, which has since advanced to Phase II clinical trials — a reminder of why this work matters beyond the bench.
+Integrating deep mutational scanning with multi-omics profiling, I found that certain missense mutations can be just as disruptive to SMARCB1 function as complete protein loss, which has important implications for how we diagnose and treat these cancers. Alongside that work, I contributed to a study identifying XPO1 as a therapeutic target in Wilms tumor, which has since advanced to Phase II clinical trials. These projects are a reminder of why this work matters beyond the bench.
 
-This marks the end of an incredible journey of discovery, growth, and learning. I am deeply grateful to my advisor, Dr. Andrew Hong, for his mentorship and support throughout this process. He is truly a fearless leader who after all these years has created an exceptional lab that I'm so excited to see how it continues to grow and evolve. I also was to thank my committee members, Dr. David Katz, Dr. Roger Deal, Dr. Karen Conneely, and Dr. Carlos Moreno. 
+This marks the end of an incredible journey of discovery, growth, and learning. I am deeply grateful to my advisor, Dr. Andrew Hong, for his mentorship and support throughout this process. He is truly a fearless leader who after all these years has created an exceptional lab that I'm so excited to see how it continues to grow and evolve. I also want to thank my committee members, Dr. David Katz, Dr. Roger Deal, Dr. Karen Conneely, and Dr. Carlos Moreno. 
 
 I also want to thank my labmates and collaborators who helped me throughout the years and who have made this experience so rewarding. I look forward to sharing my next adventure soon!
