@@ -4,7 +4,7 @@ layout: single
 permalink: /rnaseq-app/
 ---
 
-A free, self-contained desktop app for end-to-end RNA-seq analysis — from raw FASTQ files to differential expression and gene set enrichment. No command-line experience required.
+A free, self-contained desktop app for end-to-end RNA-seq analysis: from raw FASTQ files to differential expression and gene set enrichment. No command-line experience required.
 
 [Download for macOS](https://github.com/garrettc00per/rnaseq_app/releases/latest/download/RNA-seq-Processor-Installer-1.1.dmg){: .btn .btn--primary} &nbsp; [View on GitHub](https://github.com/garrettc00per/rnaseq_app){: .btn .btn--inverse}
 
