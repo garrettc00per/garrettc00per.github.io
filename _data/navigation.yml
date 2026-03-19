@@ -7,5 +7,7 @@ main:
     url: /tutorials/
   - title: "CV"
     url: /cv/
+  - title: "RNA-seq App"
+    url: /rnaseq-app/
   - title: "Posts"
     url: /posts/
