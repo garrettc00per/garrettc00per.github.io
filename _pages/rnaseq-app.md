@@ -1,12 +1,12 @@
 ---
-title: RNA-seq Processor
+title: GenomifySeq
 layout: single
 permalink: /rnaseq-app/
 ---
 
 A free, self-contained desktop app for end-to-end RNA-seq analysis: from raw FASTQ files to differential expression and gene set enrichment. No command-line experience required.
 
-[Download for macOS](https://github.com/garrettc00per/rnaseq_app/releases/latest/download/RNA-seq-Processor-Installer-1.1.dmg){: .btn .btn--primary} &nbsp; [View on GitHub](https://github.com/garrettc00per/rnaseq_app){: .btn .btn--inverse}
+[Download for macOS](https://github.com/garrettc00per/rnaseq_app/releases/latest/download/GenomifySeq-Installer-1.1.dmg){: .btn .btn--primary} &nbsp; [View on GitHub](https://github.com/garrettc00per/rnaseq_app){: .btn .btn--inverse}
 
 ---
 
@@ -28,7 +28,7 @@ A free, self-contained desktop app for end-to-end RNA-seq analysis: from raw FAS
 ## Installation
 
 1. Download the DMG above
-2. Open it and drag **RNA-seq Processor** to Applications
+2. Open it and drag **GenomifySeq** to Applications
 3. Launch from Applications — on first run it will install dependencies (~2 GB, one time only)
 
 > If macOS blocks the app, go to **System Settings → Privacy & Security** and click **Open Anyway**
